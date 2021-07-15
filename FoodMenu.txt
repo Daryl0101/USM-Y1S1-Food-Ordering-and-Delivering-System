@@ -1,0 +1,40 @@
+Thai Fried Rice	11.00
+10
+Tom Yam Goong	7.50
+10
+Tom Kha Gai	10.00
+10
+Gaeng Daeng	5.00
+10
+Pad Thai	7.00
+10
+Khao Pad	6.50
+10
+Khanom Buang	4.00
+10
+Khao Mok Gai	5.50
+10
+Massaman Curry	4.50
+10
+Pla Muek Yang	7.80
+10
+Bangkok Tomyam	8.50
+10
+Pad See Ew	6.90
+10
+Pad Kra Prow	6.80
+10
+Pad Gang Pha	7.50
+10
+Pad Goong	6.70
+10
+Pad Woon Son	5.90
+10
+Thai Satay	1.85
+10
+Geang Ped	6.70
+10
+Pa Naeng	5.60
+10
+Gaeng Keawwaan	5.95
+10
